@@ -1,2 +1,2 @@
 # FWUpdate
-fake window update screen
+fake windows update screen
